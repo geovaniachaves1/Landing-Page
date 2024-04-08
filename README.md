@@ -22,5 +22,5 @@
 ### Cada sessão do site consta no menu superior e ao clicar em cada parte o úsuario é navegado para a sessão.
 ### Este projeto é responsivo, o javascript auxiliou para a criação de um menu papelaria para telas menores.
 
-### e o display grid para o possicionamento do cardápio
+### e o display grid para o possicionamento do catalogo
 
